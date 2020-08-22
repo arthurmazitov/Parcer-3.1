@@ -1,0 +1,1006 @@
+C:\Users\Lenovo\source\repos\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\source\repos\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\source\repos\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\source\repos\prcr\prcr\bin\Debug\xNet.dll
+C:\Users\Lenovo\source\repos\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Lenovo\source\repos\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\source\repos\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\source\repos\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\source\repos\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\source\repos\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\source\repos\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\source\repos\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\source\repos\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Курсач\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\prcr2\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Final Parcer\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Курсач\Final Parcer\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Курсач\Final Parcer\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\bin\Debug\xNet.dll
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final Parcer\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\bin\Debug\xNet.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final Parcer 2.0\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\bin\Debug\xNet.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\xNet.dll
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\Курсач\Final Parcer 2.0 — копия — копия\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Курсач\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.Form1.resources
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\Final_Parcer_SQL_new2\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final_Parcer_SQL_new3 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Final_Parcer_3.0 — копия\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\Desktop\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\4 семестр\Курсовая\Parcer Final 4.0\Final Parcer SQL\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Учеба\4 Семестр\Курсач (4 семестр)\Final Parcer SQL 4.0\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Arthur\Desktop\Учеба\5 Семестр\Курсач (5 семестр)\Parcer 1.0\prcr\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_1_0\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer_4062_59\Parcer 1.0\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\agera\Downloads\Parcer_buffer 22.11\Parcer 1.0\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe.config
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\prcr.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Microsoft.SqlServer.SqlTDiagM.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.Dmf.Common.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.ServiceBrokerEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\bin\Debug\ru\Microsoft.SqlServer.RegSvrEnum.resources.dll
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csprojAssemblyReference.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.GenerateResource.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\obj\Debug\prcr.csproj.CopyComplete
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\obj\Debug\prcr.exe
+C:\Users\Lenovo\YandexDisk\Учеба\5 семестр\Курсовая\Парсер\Parcer_buffer 18.01.20\Parcer 1.0\prcr\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Parcer 2.0\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Parcer 2.0 — копия\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Parcer 3.0\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Parcer 3.0 — копия\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\prcr.exe.config
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\obj\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\obj\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\prcr.exe
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\prcr.pdb
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\EntityFramework.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Fizzler.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.Dmf.Common.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.Diagnostics.STrace.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\EntityFramework.xml
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Fizzler.pdb
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\Fizzler.Systems.HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\obj\Debug\prcr.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\obj\Debug\prcr.PrefsForm.resources
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\obj\Debug\prcr.MainForm.resources
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\obj\Debug\prcr.Properties.Resources.resources
+C:\Users\Arthur\Desktop\Parcer 3.1\prcr\obj\Debug\prcr.csproj.GenerateResource.Cache
